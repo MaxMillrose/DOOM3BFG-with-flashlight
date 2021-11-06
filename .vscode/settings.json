@@ -26,5 +26,6 @@
             }
         }
     },
-    "cmake.skipConfigureIfCachePresent": true
+    "cmake.skipConfigureIfCachePresent": true,
+    "cmake.configureOnOpen": true
 }

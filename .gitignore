@@ -2,6 +2,9 @@ build*
 eclipse*
 neo/ipch
 
+test_D3BFG*
+
+
 Doom3BFG.exe
 base/_common.crc
 base/_common.resources
